@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: rgb(41, 41, 41);
+  background-color: #666666;
+}
+
+a {
+  color: rgb(79, 8, 8);
+}
+
+h1 {
+  color: orangered;
+}
+
+.ejerciciosEnIndex {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: darkgray;
+}
+
+.ajusteSueldo {
+  display: inline-block;
+  max-width: 45%;
+}
+
+.numeroEsPar {
+  display: inline-block;
+  max-width: 45%;
+}
+
+.mayorDeTres {
+  display: inline-block;
+  max-width: 45%;
+}
+
+.calculadoraDescuentos {
+  display: inline-block;
+  max-width: 45%;
+}
+
+.autosCarrera {
+  display: inline-block;
+  max-width: 45%;
+}
